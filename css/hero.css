@@ -12,6 +12,11 @@ header{
 	padding-bottom: 10px;
 	font-family: 'Cinzel Decorative', cursive;
 }
+.hr1{
+	color: #008196;
+	font-family: 'Cinzel Decorative', cursive;
+
+}
 h1,h2 {
 		font-family: 'Cinzel Decorative', cursive;
 }
@@ -20,7 +25,7 @@ header h1{
 	font-size: 50px;
 }
 header img{
-	border-radius: 170px;
+	border-radius:170px;
 	width: 300px;
 	border: 20px solid #fab2fc;
 }
@@ -31,8 +36,8 @@ main{
 }
 main img{
 	max-width: 100%;
+	padding-top: 20px;
 }
-
 h2{ 
 	font-size: 30px;
 	color: #2b085c;
@@ -40,23 +45,24 @@ h2{
  }
 
  a{
- 	color: #2b085c
+ 	color: #2b085c;
  }
  a:hover{
  	color: white;
- 	background-color: #fab2fc
+ 	background-color: #fab2fc;
  }
 footer{
 	background-color: #2b085c;
 	text-align: center;
 	color: white;
-	padding: 50px
+	padding: 50px;
 }
 footer p{
 	margin: 0;
 }
 footer a{
-	color: #fab2fc;
+	color: #008196;
+
 }
 footer a:hover{
 	opacity: .5;
@@ -68,4 +74,9 @@ p.caption{
 	color: #999999;
 	font-style: italic;
 	margin-top: 0;
+}
+table{
+	text-align: justify;
+	background-color: #eff1f1;
+	padding: 20px;
 }
