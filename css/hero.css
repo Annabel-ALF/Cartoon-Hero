@@ -39,7 +39,9 @@ h2{
 	color: #008196;
 	margin: 40px 0 10px;
  }
-
+h3{
+	text-align: center;
+}
  a{
  	color: #008196;
  }
@@ -76,5 +78,5 @@ table{
 	background-color: #eff1f1;
 	padding: 20px;
 }
-ol{padding-left: 15px
+ol{padding-left: 15px;
 }
