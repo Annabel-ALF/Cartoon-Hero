@@ -9,24 +9,21 @@ header{
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 10px;
-	font-family: 'Cinzel Decorative', cursive;
 }
 .hr1{
 	color: #008196;
-	font-family: 'Alegreya Sans', sans-serif;
-
 }
 h1,h2 {
-		font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Fondamento', cursive;
 }
 header h1{
 	color: white;
-	font-size: 50px;
+	font-size: 60px;
 }
 header img{
 	border-radius:170px;
 	width: 300px;
-	border: 20px solid #fab2fc;
+	border: 20px solid white;
 }
 main{
 	max-width: 800px;
@@ -78,4 +75,6 @@ table{
 	text-align: justify;
 	background-color: #eff1f1;
 	padding: 20px;
+}
+ol{padding-left: 15px
 }
