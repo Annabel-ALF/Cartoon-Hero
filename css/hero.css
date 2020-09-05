@@ -1,7 +1,6 @@
 body{
 	margin: 0;
-	font-family: 'Cinzel Decorative', cursive;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 20px
 	line-height: 30px;
 }
@@ -14,7 +13,7 @@ header{
 }
 .hr1{
 	color: #008196;
-	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Alegreya Sans', sans-serif;
 
 }
 h1,h2 {
@@ -40,12 +39,12 @@ main img{
 }
 h2{ 
 	font-size: 30px;
-	color: #2b085c;
+	color: #008196;
 	margin: 40px 0 10px;
  }
 
  a{
- 	color: #2b085c;
+ 	color: #008196;
  }
  a:hover{
  	color: white;
