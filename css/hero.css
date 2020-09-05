@@ -10,11 +10,11 @@ header{
 	padding-top: 50px;
 	padding-bottom: 10px;
 }
+h1,h2{
+	font-family: 'Fondamento', cursive;
+}
 .hr1{
 	color: #008196;
-}
-h1,h2 {
-	font-family: 'Fondamento', cursive;
 }
 header h1{
 	color: white;
