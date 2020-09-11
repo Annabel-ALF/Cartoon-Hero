@@ -81,12 +81,12 @@ a.type2{
 	color: white;
 }
 button{
-	color: black;
+	color: white;
 	font-family: 'Alegreya Sans', sans-serif;
 	text-transform: uppercase;
 	border: none;
 	width: 100%;
-	background-color: ##999999;
+	background-color: #008196;
 	font-size: 30px;
 	text-align: center;
 	padding: 20px;
