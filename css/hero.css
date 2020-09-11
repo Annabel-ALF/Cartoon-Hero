@@ -91,6 +91,7 @@ button{
 	text-align: center;
 	padding: 20px;
 	text-decoration: none;
+	cursor: pointer;
 }
 button:hover{
  	opacity: .5;
